@@ -16,7 +16,7 @@ Il permet de spécifier la version souhaitée de python
 
 ## Exercice 2
 
-token : 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
+token : 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
 ### Sur l'onglet *Summary* d'une analyse de code, SonarCloud fournit 4 indicateurs Quels sont-ils et quelles sont leurs utilités ?
 
 ### A quoi sert l'indicateur Quality Gate ?
